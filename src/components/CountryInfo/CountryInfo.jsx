@@ -20,6 +20,7 @@ export const CountryInfo = ({
   return (
     <>
       <CountryWrapper>
+      
         <Flag>
           <Image src={flag} alt={countryName} />
         </Flag>
